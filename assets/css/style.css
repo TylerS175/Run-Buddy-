@@ -339,7 +339,6 @@ header nav ul li a:hover {
         outline: none;
     }
     .contact-form input, .contact-form textarea{
-        background: transparent;
     }
     .contact-form input:focus, .contact-form textarea:focus {
 }
